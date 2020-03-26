@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+    font: small;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#result {
+    border-style: solid;
+    background-color: beige;
+}
+
+#error {
+    border-style: solid;
+    background-color: red;
+}
